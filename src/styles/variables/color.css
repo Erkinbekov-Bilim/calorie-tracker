@@ -5,6 +5,7 @@
   --color-bg-header: #d1c4e9;
 
   --color-text-white: #ffffff;
+  --color-text-100: #a1a5be;
   --color-text-600: #5e35b1;
   --color-text-800: #37474f;
   --color-text-900: #311b92;
@@ -38,7 +39,7 @@
   --color-bg-input: #ffffff;
   --color-border-input: #212121;
 
-  --color-loader: #212121;
+  --color-loader: #5c6bc0;
 
   --color-scrollbar-track: #424242;
   --color-scrollbar-thumb: #bdbdbd;
